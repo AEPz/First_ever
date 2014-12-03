@@ -1,4 +1,3 @@
 First_ever
 ==========
-
-first test
+I love :cats:, :sports: and :video games:.
